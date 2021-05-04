@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/boom/OKR2/build",
+  "command": "/bin/g++-9   -I/home/boom/OKR2/include  -g   -o CMakeFiles/tcp_client.dir/tcpClient.cpp.o -c /home/boom/OKR2/tcpClient.cpp",
+  "file": "/home/boom/OKR2/tcpClient.cpp"
+},
+{
+  "directory": "/home/boom/OKR2/build",
+  "command": "/bin/g++-9   -I/home/boom/OKR2/include  -g   -o CMakeFiles/TEST.dir/test.cpp.o -c /home/boom/OKR2/test.cpp",
+  "file": "/home/boom/OKR2/test.cpp"
+},
+{
+  "directory": "/home/boom/OKR2/build",
+  "command": "/bin/g++-9   -I/home/boom/OKR2/include  -g   -o CMakeFiles/tcp_server.dir/tcpServer.cpp.o -c /home/boom/OKR2/tcpServer.cpp",
+  "file": "/home/boom/OKR2/tcpServer.cpp"
+},
+{
+  "directory": "/home/boom/OKR2/build",
+  "command": "/bin/g++-9   -I/home/boom/OKR2/include  -g   -o CMakeFiles/tcp_server.dir/log.cpp.o -c /home/boom/OKR2/log.cpp",
+  "file": "/home/boom/OKR2/log.cpp"
+}
+]

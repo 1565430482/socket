@@ -1,0 +1,1 @@
+/bin/g++-9  -g  -rdynamic CMakeFiles/2thread.dir/twoThread2Cap.cpp.o  -o 2thread  -lasound -lavformat -lavcodec -lavdevice -lavutil -lswscale -lpthread -lssl -lcrypto 

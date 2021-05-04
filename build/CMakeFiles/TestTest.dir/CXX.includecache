@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/boom/OKR2/Aes.hpp
+string
+-
+openssl/aes.h
+-
+cassert
+-
+
+/home/boom/OKR2/aacHandler.hpp
+cstdio
+-
+cstring
+-
+cstdlib
+-
+
+/home/boom/OKR2/h264Handler.hpp
+cstdio
+-
+cstring
+-
+cstdlib
+-
+string
+-
+Aes.hpp
+/home/boom/OKR2/Aes.hpp
+
+/home/boom/OKR2/main.cpp
+iostream
+-
+h264Handler.hpp
+/home/boom/OKR2/h264Handler.hpp
+aacHandler.hpp
+/home/boom/OKR2/aacHandler.hpp
+

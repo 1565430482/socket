@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/boom/OKR2/Aes.hpp
+string
+-
+openssl/aes.h
+-
+cassert
+-
+
+/home/boom/OKR2/test.cpp
+cstdio
+-
+cstring
+-
+cstdlib
+-
+iostream
+-
+string
+-
+Aes.hpp
+/home/boom/OKR2/Aes.hpp
+

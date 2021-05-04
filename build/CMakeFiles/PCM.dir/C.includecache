@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/boom/OKR2/pcm_to_aac.c
+stdint.h
+-
+stdio.h
+-
+stdlib.h
+-
+libavcodec/avcodec.h
+-
+libavformat/avformat.h
+-
+libavutil/channel_layout.h
+-
+libavutil/common.h
+-
+libavutil/frame.h
+-
+libavutil/samplefmt.h
+-
+

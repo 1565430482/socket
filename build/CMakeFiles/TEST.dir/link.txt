@@ -1,0 +1,1 @@
+/bin/g++-9  -g  -rdynamic CMakeFiles/TEST.dir/test.cpp.o  -o TEST   -L/home/boom/OKR2/include  -Wl,-rpath,/home/boom/OKR2/include -lswresample -lavformat -lavcodec -lavdevice -lavutil -lswscale -lpthread -lssl -lcrypto -lmpeg -ldl -llog4cpp 

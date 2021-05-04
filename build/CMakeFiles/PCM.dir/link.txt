@@ -1,0 +1,1 @@
+/bin/g++-9  -g  -rdynamic CMakeFiles/PCM.dir/multiThread.cpp.o  -o PCM  -lasound -lavformat -lavcodec -lavdevice -lavutil -lswscale -lpthread -lssl -lcrypto 

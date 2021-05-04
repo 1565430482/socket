@@ -1,0 +1,1 @@
+/bin/g++-9  -g  -rdynamic CMakeFiles/tcp_server.dir/tcpServer.cpp.o CMakeFiles/tcp_server.dir/log.cpp.o  -o tcp_server   -L/home/boom/OKR2/include  -Wl,-rpath,/home/boom/OKR2/include -lswresample -lavformat -lavcodec -lavdevice -lavutil -lswscale -lpthread -lssl -lcrypto -lmpeg -ldl -llog4cpp 

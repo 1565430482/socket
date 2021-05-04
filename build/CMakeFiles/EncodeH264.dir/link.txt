@@ -1,0 +1,1 @@
+/bin/g++-9  -g  -rdynamic CMakeFiles/EncodeH264.dir/main.cpp.o CMakeFiles/EncodeH264.dir/Aes.cpp.o  -o EncodeH264  -lssl -lcrypto 
